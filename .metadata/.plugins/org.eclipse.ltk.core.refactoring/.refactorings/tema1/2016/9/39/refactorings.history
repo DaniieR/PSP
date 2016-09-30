@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;tema1.RunTimeProcess.java&apos; to &apos;RuntimeProcess.java&apos;&#x0A;- Original project: &apos;tema1&apos;&#x0A;- Original element: &apos;tema1.RunTimeProcess.java&apos;&#x0A;- Renamed element: &apos;tema1.RuntimeProcess.java&apos;" description="Rename compilation unit &apos;RunTimeProcess.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;tema1{RunTimeProcess.java" name="RuntimeProcess.java" references="false" stamp="1475229626942" version="1.0"/>
+</session>
