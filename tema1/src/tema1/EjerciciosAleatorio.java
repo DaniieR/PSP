@@ -6,7 +6,7 @@ public class EjerciciosAleatorio {
 	public static void main(String[] args){
 		try{
 			
-			Process process = new ProcessBuilder(args).start() ;
+			Process process = new ProcessBuilder("./aleatorios").start() ;
 			
 			InputStream is = process.getInputStream() ;
 			InputStreamReader isr = new InputStreamReader(is);
