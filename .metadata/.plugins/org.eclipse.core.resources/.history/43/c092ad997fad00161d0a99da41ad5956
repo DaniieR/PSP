@@ -1,0 +1,18 @@
+package tema2;
+
+class Parking {
+
+	private static boolean sePuedeEntrar = true;
+	private static int plazas = 8;
+	
+}
+
+class Coche extends Thread {
+	public void run(){
+		 
+	}
+}
+
+public class Parking {
+	
+}

@@ -19,13 +19,17 @@
 <fullyQualifiedTypeName name="java.lang.Runnable"/>
 <fullyQualifiedTypeName name="tema2.RunnableClass"/>
 <fullyQualifiedTypeName name="tema2.HiloEjercicio4"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="tema2.HiloEjercicio6"/>
 <fullyQualifiedTypeName name="tema2.Ejercicio8"/>
-<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
 <fullyQualifiedTypeName name="tema2.HiloPrioridad2"/>
 <fullyQualifiedTypeName name="tema2.HiloPrioridad3"/>
 <fullyQualifiedTypeName name="tema2.Hilo11"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="tema2.VerificarCuenta"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="tema2.HiloVocal"/>
+<fullyQualifiedTypeName name="tema2.Coche"/>
+<fullyQualifiedTypeName name="tema2.Barrera"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
 </qualifiedTypeNameHistroy>
